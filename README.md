@@ -1,3 +1,7 @@
+# APP DESCRIPTION
+A React based app that allows user to search their location and shows the weather conditions of their location or searched location
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
